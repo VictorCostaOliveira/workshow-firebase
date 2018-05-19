@@ -1,0 +1,26 @@
+Vue workshow
+Escopo
+  - Criar Projeto com vue ok
+  - Criar projeto no firebase ok
+  - Fazer setup do firebase no projeto ok
+  - Eplicar o firebase ok?
+  - Explicar como o Vue ok?
+  - Explicar o que irá ter o projeto
+    - Criar um usuario
+      - Component de cadastro
+
+    - Fazer autenticação com o firebase com o usuario criado
+      - Mostar como funciona a autenticação no firebase
+      - Component de login
+
+    - Criar um TO-DO no firebase
+      - Component para criar um to-do
+        - Função para enviar o to-do para o firebase
+
+    - Pegar os TO-DOS do firebase
+      - Component para listar os to-dos
+
+    - Alterar dados do to-do no firebase
+      - Altetrar dados no Vue
+
+
